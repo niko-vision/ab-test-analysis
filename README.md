@@ -19,8 +19,8 @@ To compare the control and experimental groups and determine whether the observe
 
 ## Links
 
-- **Tableau Dashboard:** [https://public.tableau.com/app/profile/iryna.nikolaienko/viz/ABTestAnalysis_17739424276880/ABTest]
-- **Final Results Table Screenshot:** [https://drive.google.com/file/d/1RBr6neu19NwAScuH3NlxNUOZ4bskuu5D/view]
+- **Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/iryna.nikolaienko/viz/ABTestAnalysis_17739424276880/ABTest)
+- **Final Results Table Screenshot:** [View Screenshot](https://drive.google.com/file/d/1RB6neu19NwAScuH3NlxNUOZ4bskuu5D/view)
 
 ## Conclusion
 
